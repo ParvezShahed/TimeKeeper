@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimeKeeper</string>
+    <string name="login_ok">ok</string>
+    <string name="login_cancel">cancel</string>
+    <string name="login_username">userA</string>
+    <string name="login_password">pass</string>
+</resources>
